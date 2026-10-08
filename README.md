@@ -25,7 +25,7 @@ Randomize the patched ROM as usual. Features that depend on wild Pokémon (encou
 
 ### Early game
 
-- **Weaker first rival battle.** The rival's Pokémon in the Oak's Lab battle is Lv. 4 instead of Lv. 5.
+- **Weaker first rival battle.** The rival's Pokémon in the Oak's Lab battle is Lv. 6 instead of Lv. 8.
 - **+1 Master Ball.** When Professor Oak gives you the Pokédex, you get a Master Ball along with the usual 5 Poké Balls.
 - **Oak's Lab PC boosts friendship.** The PC in Oak's Lab offers the same friendship boost as the old man in Viridian City, so you don't have to walk back for it.
 
