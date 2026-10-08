@@ -70,5 +70,5 @@ Randomize the patched ROM as usual. Features that depend on wild Pokémon (encou
 
 ## Credits
 
+- **[iateyourpie]([url](http://twitch.tv/iateyourpie))** for creating the Kaizo Ironmon challenge.
 - **[Faster-FireRed](https://github.com/DrMaple/Faster-FireRed)** by DrMaple: the base patch this is built on.
-- **Pokémon FireRed** © 2004 Nintendo / Creatures Inc. / GAME FREAK inc. This is an unofficial fan patch. It doesn't include a ROM, and you'll need your own legally obtained copy of FireRed (U) v1.1.
