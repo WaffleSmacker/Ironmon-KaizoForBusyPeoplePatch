@@ -70,5 +70,5 @@ Randomize the patched ROM as usual. Features that depend on wild Pokémon (encou
 
 ## Credits
 
-- **[iateyourpie]([url](http://twitch.tv/iateyourpie))** for creating the Kaizo Ironmon challenge.
+- **[iateyourpie](http://twitch.tv/iateyourpie)** for creating the Kaizo Ironmon challenge.
 - **[Faster-FireRed](https://github.com/DrMaple/Faster-FireRed)** by DrMaple: the base patch this is built on.
