@@ -1,8 +1,11 @@
-# Kaizo Ironmon (For Busy People): What's Changed
+# Kaizo Ironmon (For Busy People):
 
 Kaizo Ironmon (For Busy People) is a ROM patch for **Pokémon FireRed**. It's meant for Ironmon runs: it cuts out a lot of the early-game busywork and grinding but keeps the challenge.
 
-Please do not stream this patch, it is mainly meant for parents or busy people who enjoy Kaizo Ironmon but dont have time to stream or play the normal challenge.
+**Please do not stream this patch, it is mainly meant for parents or busy people who enjoy Kaizo Ironmon but dont have time to stream or play the normal challenge.**
+
+<img width="480" height="320" alt="title_preview_4x" src="https://github.com/user-attachments/assets/ad199a04-116e-4496-bde0-22ac60610a20" />
+
 
 ## Built on Faster-FireRed
 
